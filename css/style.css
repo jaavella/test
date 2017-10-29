@@ -1,0 +1,88 @@
+#contenidos{
+    width: 1600px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+header{
+    background-image: url(../imagenes/header.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 200px;
+}
+h1{
+    font-size: 35px;
+    color: blue;
+    margin: 25px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color: black;
+    margin: 25px;
+    text-align: center;
+}
+
+h3{
+    font-size: 25px;
+    color: black;
+    margin: 25px;
+    text-align: center;
+}
+
+h4{
+    font-size: 20px;
+    color: black;
+    margin: 25px;
+    text-align: center;
+}
+
+nav{
+    background-color: darkorange;
+    width: 1600px;
+    height: 85px;
+    position: relative;
+}
+ul{
+    position: relative;
+    margin: auto;
+    margin-left: 200px;
+}
+section article h5{
+    font-size: 35px;
+    color: darkblue;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    margin-top: 10px;
+}
+nav ul li {
+    list-style-type: none;
+    float: left;
+    padding: 20px;
+    margin: 10px;
+    font-size: 30px;
+}
+footer{
+    width: 800px;
+    height: 130px;
+    background-color: MediumBlue;
+    position: relative;
+}
+h9{
+    font-size: 18px;
+    color: white;
+    font-style: calibri;
+    text-align: center;
+}
+.menu:active{text-decoration: none; color: darkblue;}
+.menu:hover{text-decoration: none; color: darkblue;}
+.menu:link{text-decoration: none; color: darkblue;}
+.menu:focus{text-decoration: none; color: darkblue;}
+.menu:visited{text-decoration: none; color: darkblue;}
+
+
